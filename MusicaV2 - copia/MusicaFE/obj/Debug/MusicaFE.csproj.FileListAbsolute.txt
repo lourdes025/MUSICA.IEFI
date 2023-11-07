@@ -1,0 +1,59 @@
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaBE\MusicaFE\bin\Debug\MusicaFE.exe.config
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaBE\MusicaFE\bin\Debug\MusicaFE.exe
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaBE\MusicaFE\bin\Debug\MusicaFE.pdb
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaBE\MusicaFE\bin\Debug\MusicaBE.dll
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaBE\MusicaFE\bin\Debug\MusicaBE.pdb
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaBE\MusicaFE\obj\Debug\MusicaFE.csproj.AssemblyReference.cache
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaBE\MusicaFE\obj\Debug\MusicaFE.csproj.SuggestedBindingRedirects.cache
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaBE\MusicaFE\obj\Debug\MusicaFE.FormFE.resources
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaBE\MusicaFE\obj\Debug\MusicaFE.Properties.Resources.resources
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaBE\MusicaFE\obj\Debug\MusicaFE.csproj.GenerateResource.cache
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaBE\MusicaFE\obj\Debug\MusicaFE.csproj.CoreCompileInputs.cache
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaBE\MusicaFE\obj\Debug\MusicaFE.csproj.CopyComplete
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaBE\MusicaFE\obj\Debug\MusicaFE.exe
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaBE\MusicaFE\obj\Debug\MusicaFE.pdb
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaBE\MusicaFE\obj\Debug\MusicaFE.Form2.resources
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaV2\MusicaFE\bin\Debug\MusicaFE.exe.config
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaV2\MusicaFE\bin\Debug\MusicaFE.exe
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaV2\MusicaFE\bin\Debug\MusicaFE.pdb
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaV2\MusicaFE\bin\Debug\MusicaBE.dll
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaV2\MusicaFE\bin\Debug\MusicaBE.pdb
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaV2\MusicaFE\obj\Debug\MusicaFE.csproj.AssemblyReference.cache
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaV2\MusicaFE\obj\Debug\MusicaFE.csproj.SuggestedBindingRedirects.cache
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaV2\MusicaFE\obj\Debug\MusicaFE.Form2.resources
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaV2\MusicaFE\obj\Debug\MusicaFE.FormFE.resources
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaV2\MusicaFE\obj\Debug\MusicaFE.Properties.Resources.resources
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaV2\MusicaFE\obj\Debug\MusicaFE.csproj.GenerateResource.cache
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaV2\MusicaFE\obj\Debug\MusicaFE.csproj.CoreCompileInputs.cache
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaV2\MusicaFE\obj\Debug\MusicaFE.csproj.CopyComplete
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaV2\MusicaFE\obj\Debug\MusicaFE.exe
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaV2\MusicaFE\obj\Debug\MusicaFE.pdb
+E:\MusicaV2 - copia\MusicaFE\obj\Debug\MusicaFE.csproj.AssemblyReference.cache
+E:\MusicaV2 - copia\MusicaFE\obj\Debug\MusicaFE.Form2.resources
+E:\MusicaV2 - copia\MusicaFE\obj\Debug\MusicaFE.FormFE.resources
+E:\MusicaV2 - copia\MusicaFE\obj\Debug\MusicaFE.Properties.Resources.resources
+E:\MusicaV2 - copia\MusicaFE\obj\Debug\MusicaFE.csproj.GenerateResource.cache
+E:\MusicaV2 - copia\MusicaFE\obj\Debug\MusicaFE.csproj.CoreCompileInputs.cache
+E:\MusicaV2 - copia\MusicaFE\obj\Debug\MusicaFE.exe
+E:\MusicaV2 - copia\MusicaFE\obj\Debug\MusicaFE.pdb
+E:\MusicaV2 - copia\MusicaFE\bin\Debug\MusicaFE.exe.config
+E:\MusicaV2 - copia\MusicaFE\bin\Debug\MusicaFE.exe
+E:\MusicaV2 - copia\MusicaFE\bin\Debug\MusicaFE.pdb
+E:\MusicaV2 - copia\MusicaFE\bin\Debug\MusicaBE.dll
+E:\MusicaV2 - copia\MusicaFE\bin\Debug\MusicaBE.pdb
+E:\MusicaV2 - copia\MusicaFE\obj\Debug\MusicaFE.csproj.CopyComplete
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaV2 - copia\MusicaFE\bin\Debug\MusicaFE.exe.config
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaV2 - copia\MusicaFE\bin\Debug\MusicaFE.exe
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaV2 - copia\MusicaFE\bin\Debug\MusicaFE.pdb
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaV2 - copia\MusicaFE\bin\Debug\MusicaBE.dll
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaV2 - copia\MusicaFE\bin\Debug\MusicaBE.pdb
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaV2 - copia\MusicaFE\obj\Debug\MusicaFE.csproj.AssemblyReference.cache
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaV2 - copia\MusicaFE\obj\Debug\MusicaFE.csproj.SuggestedBindingRedirects.cache
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaV2 - copia\MusicaFE\obj\Debug\MusicaFE.Form2.resources
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaV2 - copia\MusicaFE\obj\Debug\MusicaFE.FormFE.resources
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaV2 - copia\MusicaFE\obj\Debug\MusicaFE.Properties.Resources.resources
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaV2 - copia\MusicaFE\obj\Debug\MusicaFE.csproj.GenerateResource.cache
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaV2 - copia\MusicaFE\obj\Debug\MusicaFE.csproj.CoreCompileInputs.cache
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaV2 - copia\MusicaFE\obj\Debug\MusicaFE.csproj.CopyComplete
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaV2 - copia\MusicaFE\obj\Debug\MusicaFE.exe
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaV2 - copia\MusicaFE\obj\Debug\MusicaFE.pdb

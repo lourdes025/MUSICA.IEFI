@@ -1,0 +1,24 @@
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaBE\MusicaBE\bin\Debug\MusicaBE.dll
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaBE\MusicaBE\bin\Debug\MusicaBE.pdb
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaBE\MusicaBE\obj\Debug\MusicaBE.csproj.AssemblyReference.cache
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaBE\MusicaBE\obj\Debug\MusicaBE.csproj.CoreCompileInputs.cache
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaBE\MusicaBE\obj\Debug\MusicaBE.dll
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaBE\MusicaBE\obj\Debug\MusicaBE.pdb
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaV2\MusicaBE\bin\Debug\MusicaBE.dll
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaV2\MusicaBE\bin\Debug\MusicaBE.pdb
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaV2\MusicaBE\obj\Debug\MusicaBE.csproj.AssemblyReference.cache
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaV2\MusicaBE\obj\Debug\MusicaBE.csproj.CoreCompileInputs.cache
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaV2\MusicaBE\obj\Debug\MusicaBE.dll
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaV2\MusicaBE\obj\Debug\MusicaBE.pdb
+E:\MusicaV2 - copia\MusicaBE\bin\Debug\MusicaBE.dll
+E:\MusicaV2 - copia\MusicaBE\bin\Debug\MusicaBE.pdb
+E:\MusicaV2 - copia\MusicaBE\obj\Debug\MusicaBE.csproj.AssemblyReference.cache
+E:\MusicaV2 - copia\MusicaBE\obj\Debug\MusicaBE.csproj.CoreCompileInputs.cache
+E:\MusicaV2 - copia\MusicaBE\obj\Debug\MusicaBE.dll
+E:\MusicaV2 - copia\MusicaBE\obj\Debug\MusicaBE.pdb
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaV2 - copia\MusicaBE\bin\Debug\MusicaBE.dll
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaV2 - copia\MusicaBE\bin\Debug\MusicaBE.pdb
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaV2 - copia\MusicaBE\obj\Debug\MusicaBE.csproj.AssemblyReference.cache
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaV2 - copia\MusicaBE\obj\Debug\MusicaBE.csproj.CoreCompileInputs.cache
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaV2 - copia\MusicaBE\obj\Debug\MusicaBE.dll
+D:\Users\Usuario\Documents\facu\VISUAL\MusicaV2 - copia\MusicaBE\obj\Debug\MusicaBE.pdb

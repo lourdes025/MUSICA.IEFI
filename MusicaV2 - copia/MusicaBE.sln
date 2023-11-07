@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicaFE", "MusicaFE\MusicaFE.csproj", "{3E8E96B0-D993-4D3C-B64F-4FF4D067BBF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicaBE", "MusicaBE\MusicaBE.csproj", "{298AAE1F-E74B-4494-87D8-EAC4364936C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E8E96B0-D993-4D3C-B64F-4FF4D067BBF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E8E96B0-D993-4D3C-B64F-4FF4D067BBF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E8E96B0-D993-4D3C-B64F-4FF4D067BBF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E8E96B0-D993-4D3C-B64F-4FF4D067BBF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{298AAE1F-E74B-4494-87D8-EAC4364936C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{298AAE1F-E74B-4494-87D8-EAC4364936C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{298AAE1F-E74B-4494-87D8-EAC4364936C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{298AAE1F-E74B-4494-87D8-EAC4364936C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {211730EC-29DA-42CD-AF19-B85202DBC38A}
+	EndGlobalSection
+EndGlobal
